@@ -82,7 +82,7 @@ public class InAppGalleryPlugin extends CordovaPlugin {
                         media.put("id", cursor.getLong(idColumn));
                         media.put("name", cursor.getString(nameColumn));
                         media.put("type", cursor.getString(typeColumn));
-                        media.put("url", "file:" + cursor.getString(dataColumn));
+                        media.put("url", "file:/" + cursor.getString(dataColumn));
 
                         mediaList.put(media);
                     }
