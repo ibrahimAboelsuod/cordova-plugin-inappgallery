@@ -1,0 +1,31 @@
+{
+    "name": "cordova-plugin-inappgallery",
+    "version": "0.0.1",
+    "description": "tbd.",
+    "cordova": {
+        "id": "cordova-plugin-inappgallery",
+        "platforms": [
+            "android"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ibrahimAboelsuod/cordova-plugin-inappgallery.git"
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ],
+    "author": "Ibrahim Aboelsuod <ibrahimaboelsuod@gmail.com>",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/ibrahimAboelsuod/cordova-plugin-inappgallery/issues"
+    },
+    "homepage": "https://github.com/ibrahimAboelsuod/cordova-plugin-inappgallery"
+}
